@@ -1,0 +1,7 @@
+com\mycompany\chatsockets_jlsp\ChatSockets_JLSP.class
+com\mycompany\chatsockets_jlsp\Server.class
+Cliente\Cliente.class
+com\mycompany\chatsockets_jlsp\ServerGUI.class
+Cliente\ClienteMain.class
+Cliente\ClienteGUI.class
+com\mycompany\chatsockets_jlsp\ClientHandler.class
